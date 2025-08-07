@@ -7,7 +7,7 @@ DeadlineTech Music
 </p>
 
 <p align="center">
-    <a href="https://github.com/deadlineTech/Music/stargazers">
+    <a href="https://github.com/Skssssee/Music/stargazers">
         <img src="https://img.shields.io/github/stars/deadlineTech/Music?color=ffd700&style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/deadlineTech/Music/network/members">
