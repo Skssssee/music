@@ -10,7 +10,7 @@ DeadlineTech Music
     <a href="https://github.com/Skssssee/Music/stargazers">
         <img src="https://img.shields.io/github/stars/deadlineTech/Music?color=ffd700&style=for-the-badge&logo=github" />
     </a>
-    <a href="https://github.com/deadlineTech/Music/network/members">
+    <a href="https://github.com/Skssssee/Music/network/members">
         <img src="https://img.shields.io/github/forks/deadlineTech/Music?color=blue&style=for-the-badge&logo=github" />
     </a>
 <img src="https://img.shields.io/github/license/deadlineTech/music?style=for-the-badge" alt="LICENSE">
@@ -93,7 +93,7 @@ DeadlineTech Music
 <details>
 <summary><b>🔹 Deploy to Heroku</b></summary>
 
-[![Deploy](https://img.shields.io/badge/Deploy%20to-Heroku-4700f5?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/deadlineTech/Music)
+[![Deploy](https://img.shields.io/badge/Deploy%20to-Heroku-4700f5?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/Skssssee/Music)
 
 </details>
 
