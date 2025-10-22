@@ -2,8 +2,8 @@
 
 # ==========================================================
 # 🎧 Public Open-Source VC Player Music Bot (Cookies Based)
-# 🛠️ Maintained by Team DeadlineTech | Lead Developer: @Its_damiann
-# 🔓 Licensed for Public Use — All Rights Reserved © Team DeadlineTech
+# 🛠️ Maintained by Team Arc | Lead Developer: @Its_damiann
+# 🔓 Licensed for Public Use — All Rights Reserved © Team Arc
 #
 # This file is part of a publicly available and open-source Telegram music bot
 # developed by Team DeadlineTech. It offers high-quality streaming in Telegram voice
@@ -16,7 +16,7 @@
 # community standards and may lead to denial of support or blacklisting.
 #
 # 🔗 Looking for powerful performance with stable APIs? Get access to the official
-# premium API service: https://DeadlineTech.site
+# premium API service: https://DeadlineTech.site or Visit @ApixhubBot
 #
 # ❤️ Openly built for the community, but proudly protected by the passion of its creators.
 # ==========================================================
@@ -75,8 +75,8 @@ class Userbot(Client):
         async def setup_assistant(client, number):
             try:
                 await client.start()
-                await client.join_chat("DeadlineTechTeam")
-                await client.join_chat("DeadlineTechSupport")
+                await client.join_chat("ArcBotz")
+                await client.join_chat("ArcUpdates")
             except Exception:
                 pass
 

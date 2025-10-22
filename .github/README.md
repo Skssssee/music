@@ -1,9 +1,9 @@
 <h1 align="center">
-DeadlineTech Music
+Arc Music Bot
 </h1>
 
 <p align="center">
-    <img src="https://files.catbox.moe/lxn8yz.jpg" width="400">
+    <img src="https://files.catbox.moe/4lkow5.jpg" width="400">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ DeadlineTech Music
 
 ## 🎧 Advanced Telegram Group Music Bot
 
-> A modern Telegram bot for high-quality group music streaming using PyTgCalls and DeadlineTech’s powerful Music API key.
+> A modern Telegram bot for high-quality group music streaming using PyTgCalls and Arc Bots powerful Music API key.
 
 ---
 
@@ -43,11 +43,11 @@ DeadlineTech Music
 
 ## 🔑 What is the API Key?
 
-> A **Music API Key** by DeadlineTech gives you powerful music fetching, blazing-fast downloads, rich metadata, and seamless YouTube support.  
+> A **Music API Key** by Arc Bots gives you powerful music fetching, blazing-fast downloads, rich metadata, and seamless YouTube support.  
 > Just buy it once and enjoy the best streaming experience on your Telegram groups!
 
 - 🔗 [Buy API Key](https://deadlinetech.site)
-- 💬 [Ask on Telegram](https://t.me/DeadlineTechOwner)
+- 💬 [Get Your Free Trial Api Key](https://t.me/ApixhubBot)
 
 ---
 
@@ -154,17 +154,17 @@ STRING_SESSION=YOUR_STRING_SESSION
 
 ## 🤝 Support & Community
 
-- 📢 [Announcements Channel](https://t.me/DeadlineTechTeam)
-- 💬 [Support Group](https://t.me/DeadlineTechSupport)
-- 🧑‍💻 [Developer Contact](https://t.me/DeadlineTechOwner)
+- 📢 [Announcements Channel](https://t.me/ArcUpdates)
+- 💬 [Support Group](https://t.me/ArcChatz)
+- 🧑‍💻 [Developer Contact](https://t.me/Its_Damiann)
 
 ---
 
 ## ⚡ Credits
 
 - Base Framework: [Anon Music](https://github.com/AnonymousX1025/AnonXMusic)
-- Enhanced by: [Team DeadlineTech](https://telegram.me/DeadlineTechTeam)
-- Lead Dev: [@DeadlineTechOwner](https://telegram.me/DeadlineTechOwner) 
+- Enhanced by: [Team Arc](https://telegram.me/ArcUpdates)
+- Lead Dev: [𝘿𝙖𝙢𝙞𝙖𝙣❤‍🩹](https://telegram.me/Its_Damiann) 
 
 ---
 
